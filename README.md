@@ -1,1 +1,1 @@
-# New project started and added
+# New project started and added.
